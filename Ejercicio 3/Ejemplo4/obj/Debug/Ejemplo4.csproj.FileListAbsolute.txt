@@ -1,0 +1,37 @@
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.pdb
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.Form1.resources
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.exe
+C:\Users\kevin\OneDrive\Escritorio\Ciclo 02-2021\POOLAB\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.pdb
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.pdb
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csprojAssemblyReference.cache
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.Form1.resources
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.Properties.Resources.resources
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.GenerateResource.cache
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.CoreCompileInputs.cache
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.exe
+D:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.pdb
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.exe
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.pdb
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.pdb
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csprojResolveAssemblyReference.cache
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.Form1.resources
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.Properties.Resources.resources
+F:\Ejemplosguia3\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\obj\Debug\Ejemplo4.exe
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\obj\Debug\Ejemplo4.pdb
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\bin\Debug\Ejemplo4.exe
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\bin\Debug\Ejemplo4.pdb
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\obj\Debug\Ejemplo4.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\obj\Debug\Ejemplo4.Form1.resources
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\obj\Debug\Ejemplo4.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio 3\Ejemplo4\obj\Debug\Ejemplo4.csproj.GenerateResource.Cache

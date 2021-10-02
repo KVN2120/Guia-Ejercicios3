@@ -1,0 +1,9 @@
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\kevin\OneDrive\Documentos\Guia 3\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
